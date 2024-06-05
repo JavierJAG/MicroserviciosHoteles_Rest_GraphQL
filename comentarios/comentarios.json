@@ -1,0 +1,36 @@
+[{
+    "_id": "647f1a2e7d4c3b1bcae5b67a",
+    "usuarioId": 4,
+    "hotelId": 1,
+    "reservaId": 1,
+    "puntuacion": 6.5,
+    "comentario": "Excelente servicio",
+    "fechaCreacion": "2024-01-01T12:00:00Z"
+},
+{
+    "_id": "647f1a2e7d4c3b1bcae5b67b",
+    "usuarioId": 1,
+    "hotelId": 3,
+    "reservaId": 4,
+    "puntuacion": 5,
+    "comentario": "Excelente servicio",
+    "fechaCreacion": "2024-01-01T12:00:00Z"
+},
+{
+    "_id": "647f1a2e7d4c3b1bcae5b67c",
+    "usuarioId": 2,
+    "hotelId": 1,
+    "reservaId": 2,
+    "puntuacion": 4,
+    "comentario": "Buena experiencia",
+    "fechaCreacion": "2024-01-02T12:30:00Z"
+},
+{
+    "_id": "647f1a2e7d4c3b1bcae5b67d",
+    "usuarioId": 3,
+    "hotelId": 2,
+    "reservaId": 3,
+    "puntuacion": 3,
+    "comentario": "Podría mejorar",
+    "fechaCreacion": "2024-01-03T13:00:00Z"
+}]
